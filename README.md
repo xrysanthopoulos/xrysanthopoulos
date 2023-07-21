@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am Dimitris a software engineer at [Travelstaytion](https://www.travelstaytion.com/) based in Patras, Greece.**
+**I am Dimitris a software engineer based in Patras, Greece.**
 
 Here you'll find some of my personal projects.
 
